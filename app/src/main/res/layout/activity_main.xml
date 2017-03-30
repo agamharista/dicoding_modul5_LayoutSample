@@ -24,16 +24,17 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="$74"
+                android:text="Rp. 469,480"
                 android:textSize="28sp"
                 android:textStyle="bold"
                 android:textColor="@android:color/white"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Pernight"
+                android:text="Per Malam"
                 android:textSize="14sp"
                 android:textStyle="normal"
+                android:layout_gravity="center"
                 android:layout_marginTop="3dp"
                 android:textColor="@android:color/white"/>
         </LinearLayout>
@@ -47,7 +48,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="HiltonHotelIslaNublarResort"
+            android:text="Fave Hotel Melawai"
             android:textSize="24sp"
             android:gravity="center"
             android:textStyle="bold"
@@ -55,7 +56,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="JurassicWorldAvenue,Westisland,87milesofCostaRica"
+            android:text="Jl. Melawai IV No.3, RT.11/RW.1, Melawai, Kby. Baru, Kota Jakarta Selatan, DKI Jakarta 12160"
             android:textSize="15sp"
             android:gravity="center"
             android:layout_centerVertical="true"
@@ -75,14 +76,14 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Harista Agam(owner)"
+            android:text="Harista Agam (owner)"
             android:gravity="center"
             android:layout_gravity="center"/>
     </LinearLayout>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Requesttobook"
+        android:text="Request to book"
         android:background="@android:color/holo_red_light"
         android:textColor="@android:color/white"
         android:layout_alignParentBottom="true"/>
